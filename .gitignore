@@ -1,0 +1,33 @@
+# Virtual environments
+.venv/
+venv/
+
+# Python bytecache
+__pycache__/
+*.pyc
+*.pyo
+
+# Personal photos — exclude all content inside data/ but keep folder placeholders
+data/**
+!data/
+!data/.gitkeep
+!data/videos/
+!data/videos/.gitkeep
+
+# Personal source videos
+*.mp4
+
+# Trained model files (encode facial features of real people — keep local only)
+models/modelo_face.xml
+models/label_encoder.pkl
+*.pkl
+
+# Binary installers
+*.whl
+
+# Logs and runtime output
+logs/
+screenshots/
+
+# Claude internal
+.claude/
