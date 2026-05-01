@@ -16,10 +16,7 @@ Proyecto de grado/
 │   └── cascades/
 │       └── haarcascade_frontalface_alt2.xml
 ├── data/                  # Imágenes de entrenamiento por persona
-│   ├── Aharu Chacon/
-│   ├── Alejandro Gama/
-│   ├── Claudia Aguilar/
-│   └── Samuel Jimenez/
+│  
 ├── logs/
 ├── requirements.txt
 └── .gitignore
