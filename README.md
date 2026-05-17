@@ -16,6 +16,9 @@ Proyecto de grado/
 │   └── cascades/
 │       └── haarcascade_frontalface_alt2.xml
 ├── data/                  # Imágenes de entrenamiento por persona
+│   ├── persona_1/
+│   ├── persona_2/
+│   ├── videos/ 
 │  
 ├── logs/
 ├── requirements.txt
